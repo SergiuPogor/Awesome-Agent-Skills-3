@@ -217,6 +217,12 @@ The commands above are entry points. The pack includes 27 skills total — 26 li
 | [xquik-public-data](skills/xquik-public-data/SKILL.md) | Guides safe public X/Twitter data workflows through documented Xquik routes | Reading public tweets, profiles, trends, lists, communities, articles, media, or search results |
 | [hermes-tweet](skills/hermes-tweet/SKILL.md) | Guides safe Hermes Tweet plugin setup, reads, and gated X/Twitter actions | Installing Hermes Tweet or choosing read versus action tools for X/Twitter workflows |
 
+### Creative Media
+
+| Skill | What It Does | Use When |
+|-------|-------------|----------|
+| [video-router](skills/video-router/SKILL.md) | Selects and locks generation, deterministic composition, footage editing, or an end-to-end video-production route | Classifying a video brief before production, asset generation, editing, or rendering begins |
+
 ### Verify - Prove it works
 
 | Skill | What It Does | Use When |
